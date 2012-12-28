@@ -1,9 +1,13 @@
 {
-  "title": "resume",
-  "description": "Shawn Feldman's resume",
-  "version": "1.0.0",
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
   "dependencies": {
-    "express": "~3.0.5",
+    "express": "3.0.5",
+    "ejs": "~0.8.3",
     "restify": "~1.4.4",
     "mocha": "~1.7.4"
   }

@@ -1,16 +1,12 @@
-var express = require("express"),
-    restify = require("restify"),
-    RestRoutes = require("./restroutes").Routes,
-    express = require('express'),
-    routes = require('./routes'),
-    user = require('./routes/user'),
-    http = require('http'),
-    path = require('path');
+/**
+ * Module dependencies.
+ */
 
-var restServer = restify.createServer();
-var restRoutes = new RestRoutes(restServer);
-restRoutes.initialize();
-restServer.listen(3001);
+var express = require('express')
+    , routes = require('./routes')
+    , user = require('./routes/user')
+    , http = require('http')
+    , path = require('path');
 
 var app = express();
 
