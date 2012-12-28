@@ -12,6 +12,6 @@
     "node": "0.8.x"
   },
   "scripts": {
-    "start": "server.js"
+    "start": "node server.js"
   }
 }
