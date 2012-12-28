@@ -10,12 +10,12 @@ var express = require("express"),
 var restServer = restify.createServer();
 var restRoutes = new RestRoutes(restServer);
 restRoutes.initialize();
-restServer.listen(3001);
+restServer.listen(8081);
 
 var app = express();
 
 app.configure(function () {
-    app.set('port', process.env.PORT || 3000);
+    app.set('port', 8080);
     app.set('views', __dirname + '/views');
     app.set('view engine', 'ejs');
     app.use(express.favicon());
