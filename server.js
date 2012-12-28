@@ -1,7 +1,8 @@
-/**
- * Created with JetBrains WebStorm.
- * User: Shawn
- * Date: 12/28/12
- * Time: 1:15 PM
- * To change this template use File | Settings | File Templates.
- */
+var express = require("express");
+var restify = require("restify");
+var Routes = require("./routes").Routes;
+
+var restServer = restify.createServer();
+var routes = new Routes(restServer);
+routes.initialize();
+restServer.listen(8080);
