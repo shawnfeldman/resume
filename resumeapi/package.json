@@ -1,0 +1,16 @@
+{
+  "name": "ResumeApi",
+  "version": "0.0.1-2",
+  "private": true,
+  "dependencies": {
+    "restify": "~1.4.4",
+    "mocha": "~1.7.4"
+  },
+  "subdomain": "shawnfeldman.resumeapi",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "scripts": {
+    "start": "server.js"
+  }
+}
