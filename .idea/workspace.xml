@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69c45f72-94d1-4767-8392-9258a3a7a32b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resumeapi/resume.js" afterPath="$PROJECT_DIR$/resumeapi/resume.js" />
     </list>
     <ignored path="resume.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,10 +44,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="resume.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="resume.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resumeapi/resume.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="20" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+            <state line="5" column="16" selection-start="145" selection-end="145" vertical-scroll-proportion="0.09855454">
               <folding />
             </state>
           </provider>
@@ -67,10 +71,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="34" selection-start="157" selection-end="157" vertical-scroll-proportion="0.11627907">
+            <state line="6" column="34" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -126,9 +130,9 @@
         <option value="$PROJECT_DIR$/resumeweb/server.js" />
         <option value="$PROJECT_DIR$/resumeweb/package.json" />
         <option value="$PROJECT_DIR$/resumeapi/package.json" />
-        <option value="$PROJECT_DIR$/resumeapi/resume.js" />
         <option value="$PROJECT_DIR$/resumeapi/test/test.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/resumeapi/resume.js" />
       </list>
     </option>
   </component>
@@ -524,13 +528,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resumeapi/resume.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resumeweb/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="19" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0">
@@ -547,7 +544,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="157" selection-end="157" vertical-scroll-proportion="0.11627907">
+        <state line="6" column="34" selection-start="157" selection-end="157" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resumeapi/resume.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="16" selection-start="145" selection-end="145" vertical-scroll-proportion="0.09855454">
           <folding />
         </state>
       </provider>
