@@ -4,10 +4,13 @@ var Routes = function (restServer) {
         this.header('contentType', 'json');
     };
     this.initialize = function () {
-        restServer.get("/sections/", function (req, res, next) {
+        restServer.get("/details/", function (req, res, next) {
             var resume = new Resume();
-            res.send(resume.getSections());
-
+            res.send(resume.getDetails());
+        });
+        restServer.get("/header/", function (req, res, next) {
+            var resume = new Resume();
+            res.send(resume.getHeader());
         });
     };
 };
