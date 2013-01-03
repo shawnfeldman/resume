@@ -3,11 +3,21 @@
   <head>
     <title><%= title %></title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
-    <script type='text/javascript' src='http://code.jquery.com/jquery-1.8.3.min.js'></script>
+    <!--<script type='text/javascript' id="jquery" src='http://code.jquery.com/jquery-1.8.3.min.js'></script>  -->
+    <script type='text/javascript' id="requirejs" src='/javascripts/r.js'></script>
+    <script type='text/javascript' id="backbone" src='http://backbonejs.org/backbone-min.js'></script>
+
   </head>
   <body>
     <h1><%= title %></h1>
-    <p>Welcome to <%= title %></p>
-    <p><%= detailsRoute %></p>
+
   </body>
+  <script type='text/javascript'>
+     var resume = {};
+     resume.routes = {
+        detailsRoute:'<%= detailsRoute %>',
+        headerRoute:'<%= headerRoute %>'
+     };
+
+  <script>
 </html>
