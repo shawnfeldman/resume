@@ -1,7 +1,5 @@
-resume
+Shawn Feldman's Resume
 ======
 
-Backbone/Node.js app serving up my resume
-Will be built with responsive design and offer real time updates
-
-http://shawnfeldman.resume.jit.su/
+Markdown Resume
+[Click here to open](RESUME.md)
