@@ -1,15 +1,11 @@
 ## Shawn Feldman - Full Stack Engineer
-
 ###### shawn.feldman+ghres@gmail | @shawnfeldman | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
-
 ##### Experienced, Driven Engineer; Driven to create modern web experiences; Interested in real time messaging.  
-
 * Open: Node.js, JS Frameworks(Angular, Require, Backbone, jQuery, Dojo), Java, RxJava, DI(Guice, Spring), Test (Mocha, Jasmine, Protractor, Selenium),  MongoDB, Cassandra, Redis, Git
 * MSFT: .NET 4+, ASP.NET MVC + Web API, DI (Spring, Unity), SQL Server, NUnit, MSTest, TFS, 
 * Process: Scrum, Kanban, XP
 
 ## Experience
-
 ##### Apigee // Software Engineer // 11/2013-Current
 * Developing Apache Usergrid: Backend as a service product for enterprises and consumers.  Hacking on stack (Java/Cassandra), sdks(JS + Node)  and web (AngularJS).  Automated tests using Protractor/Selenium. Open Sourced all work through Apache Usergrid project.
 * Stack: Java (RxJava, Akka, Hystrix, Guice, Spring), Cassandra, AngularJS, Bower, Grunt, Protractor, Selenium, Git.  
