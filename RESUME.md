@@ -1,14 +1,21 @@
 ## Shawn Feldman - Full Stack Engineer
 ###### shawn.feldman+ghres@gmail | @shawnfeldman | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
 ##### Experienced, Driven Engineer; Driven to create modern web experiences; Interested in real time messaging.  
-* Stack: Java, RxJava, DI(Guice, Spring), Node.js, GoLang, Test (Mockito, Mocha, Jasmine, Protractor, Selenium), Kubernetes, Docker
+* Stack: GoLang, Java, RxJava, DI(Guice, Spring), Node.js, Test (Mockito, Mocha, Jasmine, Protractor, Selenium), Kubernetes, Docker
 * Client: Angular, Require, Backbone, jQuery, Dojo
-* Storage: MongoDB, Cassandra, ElasticSearch, Redis
+* Storage: Riak, Solr Cloud, Cassandra, ElasticSearch, Redis, Kafka, SQS
 * MSFT: .NET 4+, ASP.NET MVC + Web API, DI (Spring, Unity), SQL Server, NUnit, MSTest, TFS, 
 * Process: Scrum, Kanban, XP
 
 ## Experience
-##### Apigee // Software Engineer // 11/2013-Current
+##### Sendgrid // Software Engineer // 07/2016 - Current
+* Scaled Solr Cloud Above 1 Billion Docs
+* Distributed Development with Riak, Solr, GoLang
+* Developed Zk aware Solr client, https://github.com/sendgrid/go-solr 
+* Stack: GoLang, Git, Riak, Solr Cloud, Kafka, Zookeeper  
+* Site: https://sendgrid.com/marketing/email-marketing/, https://github.com/sendgrid/go-solr 
+
+##### Apigee // Software Engineer // 11/2013 - 06/2016
 * Building microservices stack using Docker/Kubernetes and GoLang for Automation
 * Developing Apache Usergrid: Backend as a service product for enterprises and consumers.  Hacking on stack (Java/Cassandra), sdks(JS + Node)  and web (AngularJS).  Automated tests using Protractor/Selenium. Open Sourced all work through Apache Usergrid project.
 * Stack: Java (RxJava, Akka, Hystrix, Guice, Spring), Cassandra, AngularJS, Bower, Grunt, Protractor, Selenium, Git.  
