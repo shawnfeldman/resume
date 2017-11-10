@@ -13,7 +13,8 @@
 * Distributed Development with Riak, Solr, GoLang
 * Developed Zk aware Solr client, https://github.com/sendgrid/go-solr 
 * Stack: GoLang, Git, Riak, Solr Cloud, Kafka, Zookeeper  
-* Site: https://sendgrid.com/marketing/email-marketing/, https://github.com/sendgrid/go-solr 
+* Site: https://sendgrid.com/marketing/email-marketing/
+* Contributed to: https://github.com/flaxsearch/luwak, https://github.com/sendgrid/go-solr 
 
 ##### Apigee // Software Engineer // 11/2013 - 06/2016
 * Building microservices stack using Docker/Kubernetes and GoLang for Automation
