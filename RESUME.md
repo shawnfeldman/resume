@@ -1,4 +1,4 @@
-## Shawn Feldman - Full Stack Engineer
+## Shawn Feldman - Principal Engineer
 ###### shawn.feldman+ghres@gmail | @shawnfeldman | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
 ##### Experienced, Driven Engineer; Driven to create modern web experiences; Interested in real time messaging.  
 * Stack: GoLang, Java, RxJava, DI(Guice, Spring), Node.js, Test (Mockito, Mocha, Jasmine, Protractor, Selenium), Kubernetes, Docker
