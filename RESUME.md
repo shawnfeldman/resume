@@ -6,7 +6,7 @@
 * Process: Scrum, Kanban, XP
 
 ## Experience
-##### Sendgrid // Software Engineer // 07/2016 - Current
+##### Sendgrid // Principal Engineer // 07/2016 - Current
 * Scaled Solr Cloud Above 1 Billion Docs
 * Distributed Development with Riak, Solr, GoLang
 * Developed Zk aware Solr client, https://github.com/sendgrid/go-solr 
