@@ -1,10 +1,8 @@
 ## Shawn Feldman - Principal Engineer
 ###### shawn.feldman+ghres@gmail | @shawnfeldman | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
-##### Experienced, Driven Engineer; Driven to create modern web experiences; Interested in real time messaging.  
-* Stack: GoLang, Java, RxJava, DI(Guice, Spring), Node.js, Test (Mockito, Mocha, Jasmine, Protractor, Selenium), Kubernetes, Docker
-* Client: Angular, Require, Backbone, jQuery, Dojo
+##### Experienced, Driven Engineer; <3 large datasets
+* Stack: GoLang, Java, RxJava, DI(Guice, Spring), NodeJS, Test (Mockito, Mocha, Jasmine, Protractor, Selenium), Kubernetes, Docker
 * Storage: Riak, Solr Cloud, Cassandra, ElasticSearch, Redis, Kafka, SQS
-* MSFT: .NET 4+, ASP.NET MVC + Web API, DI (Spring, Unity), SQL Server, NUnit, MSTest, TFS, 
 * Process: Scrum, Kanban, XP
 
 ## Experience
