@@ -1,14 +1,15 @@
 ## Shawn Feldman - Principal Engineer
 ###### shawn.feldman+ghres@gmail | @shawnfeldman | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
 ##### Experienced, Driven Engineer; <3 large datasets
-* Stack: GoLang, Java, RxJava, DI(Guice, Spring), NodeJS, Test (Mockito, Mocha, Jasmine, Protractor, Selenium), Kubernetes, Docker
-* Storage: Riak, Solr Cloud, Cassandra, ElasticSearch, Redis, Kafka, SQS
-* Process: Scrum, Kanban, XP
+* Stack: GoLang, Java, RxJava, NodeJS, AWS, Kubernetes, Docker, Snowflake, Chef, Terraform
+* Storage: Riak, Solr Cloud, Cassandra, ElasticSearch, Redis, Kafka, SQS, Kinesis, DynamoDB, MySQL
 
 ## Experience
 ##### Sendgrid // Principal Engineer // 07/2016 - Current
+* AWS Rearchitecture with Lambdas, GoLang, Snowflake, DynamoDB, MySQL Aurora, Terraform
 * Scaled Solr Cloud Above 1 Billion Docs
-* Distributed Development with Riak, Solr, GoLang
+* Distributed Development with Riak, Solr, GoLang, Kafka, MySQL
+* Produce Architectural Documents and Influence Teams
 * Developed Zk aware Solr client, https://github.com/sendgrid/go-solr 
 * Stack: GoLang, Git, Riak, Solr Cloud, Kafka, Zookeeper  
 * Site: https://sendgrid.com/marketing/email-marketing/
