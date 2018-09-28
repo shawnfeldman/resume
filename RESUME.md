@@ -6,7 +6,7 @@
 
 ## Experience
 ##### Sendgrid // Principal Engineer // 07/2016 - Current
-* AWS Rearchitecture with Lambdas, GoLang, Snowflake, DynamoDB, MySQL Aurora, Terraform
+* AWS Rearchitecture with Lambdas, Go, API Gateway, Kinesis, SQS, Snowflake, DynamoDB, MySQL Aurora, Terraform
 * Scaled Solr Cloud Above 1 Billion Docs
 * Distributed Development with Riak, Solr, GoLang, Kafka, MySQL
 * Produce Architectural Documents and Influence Teams
