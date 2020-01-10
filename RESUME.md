@@ -6,11 +6,11 @@
 
 ## Experience
 ##### Sendgrid // Principal Engineer // 07/2016 - Current
-* Led Teams on AWS Rearchitecture with Lambdas, API Gateway, Kinesis, SQS, Snowflake, GoLang, DynamoDB, MySQL Aurora, Terraform
+* Led Teams on AWS Rearchitecture of Marketing Campaigns Product with Lambdas, API Gateway, Kinesis, SQS, Snowflake, GoLang, DynamoDB, MySQL Aurora, Terraform
 * Improved Contact Ingestion from <1K Sec to >5k sec by rewriting CSV parsing.  Increased max ingestion size from < 1GB to max AWS S3 PUT Size ~ 3 GB by changing from in memory ingestion to streaming reads from s3 using go lang buffered readers
-* Distributed Development with Riak, Solr, GoLang, Kafka, MySQL
 * Produce Architectural Designs and Influence Teams
 * Developed Zookeeper Solr client, https://github.com/sendgrid/go-solr to reduce latency vs. using http endpoints and loadbalancer 
+* Stack: On prem Riak, Solr, GoLang, Kafka, MySQL, Rewrite: 
 * Site: https://sendgrid.com/marketing/email-marketing/
 * Contributed to: https://github.com/flaxsearch/luwak, https://github.com/sendgrid/go-solr 
 
