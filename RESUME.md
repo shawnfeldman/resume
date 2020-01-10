@@ -33,7 +33,7 @@
 * Site: http://quarkbrandmanager.com/
 
 ##### Microsoft Consulting Services // Sr. Consultant // 03/2006-04/2011
-* Delivered consulting engagements utilizing SharePoint 2007/2010, jQuery 1.x, Reporting Services, SQL Server, and .NET for Microsoft. Promoted twice in 5 years. Referenced by MSDN in May 2008 http://bit.ly/ZSFTX7. Contributed with 3 developers to build workflow system to speed up paper based approvals to drill natural gas wells. Developed intranet portals utilizing MOSS (including Publishing, My Sites, Search, and divisional portals). Implemented eDiscovery Search Engine for Legal Search using SharePoint 2007. Developed a packaged business intelligence application which MWH resold to clients. Supported Sales Team on various engagements to close new business.  
+* Delivered consulting engagements utilizing SharePoint 2007/2010, jQuery 1.x, Reporting Services, SQL Server, and .NET for Microsoft. Promoted twice in 5 years. Referenced by MSDN in May 2008. Contributed with 3 developers to build workflow system to speed up paper based approvals to drill natural gas wells. Developed intranet portals utilizing MOSS (including Publishing, My Sites, Search, and divisional portals). Implemented eDiscovery Search Engine for Legal Search using SharePoint 2007. Developed a packaged business intelligence application which MWH resold to clients. Supported Sales Team on various engagements to close new business.  
 * Clients: Questar (2 years), MediaNews Group (Case Study: http://bit.ly/WZ20G3), Xcel , MWH, Intermountain Health Care, Coors, Gates, Plum Creek Timber, Navigant, Zions Bank, Nike, Honeywell
 
 ##### Visa // Systems Architect // 07/2004-03/2006
