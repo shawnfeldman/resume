@@ -1,4 +1,4 @@
-## Shawn Feldman - Principal Engineer Working With Solutions around Big Data
+## Shawn Feldman - Principal Engineer 
 ###### shawn.feldman+ghres@gmail | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
 * Motivated by working with high volumes of data and transactions 
 * Stack: GoLang, Java, RxJava, NodeJS, AWS, Lambda, ECS, Kubernetes/Docker, Snowflake, Chef, Terraform
