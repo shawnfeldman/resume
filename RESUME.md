@@ -1,28 +1,29 @@
-## Shawn Feldman - Principal Engineer
+## Shawn Feldman - Principal Engineer Working With Solutions around Big Data
 ###### shawn.feldman+ghres@gmail | @shawnfeldman | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
 ##### Experienced, Driven Engineer; <3 large datasets
-* Stack: GoLang, Java, RxJava, NodeJS, AWS, Kubernetes, Docker, Snowflake, Chef, Terraform
-* Storage: Riak, Solr Cloud, Cassandra, ElasticSearch, Redis, Kafka, SQS, Kinesis, DynamoDB, MySQL
+* Motivated by working with high volumes of data and transactions. 
+* Stack: GoLang, Java, RxJava, NodeJS, AWS, Lambda, ECS, Kubernetes/Docker, Snowflake, Chef, Terraform
+* DB/Storage: Riak, Solr, Cassandra, ElasticSearch, Redis, Kafka/Kinesis, SQS, DynamoDB, MySQL
 
 ## Experience
 ##### Sendgrid // Principal Engineer // 07/2016 - Current
-* AWS Rearchitecture with Lambdas, Go, API Gateway, Kinesis, SQS, Snowflake, DynamoDB, MySQL Aurora, Terraform
-* Scaled Solr Cloud Above 1 Billion Docs
+* AWS Rearchitecture with Lambdas, API Gateway, Kinesis, SQS, Snowflake, GoLang, DynamoDB, MySQL Aurora, Terraform
+* Improved Contact Ingestion from <1K Sec to >5k sec by rewriting CSV parsing.  Increased max ingestion size from < 1GB to max AWS S3 PUT Size ~ 3 GB by changing from in memory ingestion to streaming reads from s3 using go lang buffered readers
 * Distributed Development with Riak, Solr, GoLang, Kafka, MySQL
-* Produce Architectural Documents and Influence Teams
-* Developed Zk aware Solr client, https://github.com/sendgrid/go-solr 
+* Produce Architectural Designs and Influence Teams
+* Developed Zookeeper Solr client, https://github.com/sendgrid/go-solr to reduce latency vs. using http endpoints and loadbalancer 
 * Stack: GoLang, Git, Riak, Solr Cloud, Kafka, Zookeeper  
 * Site: https://sendgrid.com/marketing/email-marketing/
 * Contributed to: https://github.com/flaxsearch/luwak, https://github.com/sendgrid/go-solr 
 
 ##### Apigee // Software Engineer // 11/2013 - 06/2016
-* Building microservices stack using Docker/Kubernetes and GoLang for Automation
-* Developing Apache Usergrid: Backend as a service product for enterprises and consumers.  Hacking on stack (Java/Cassandra), sdks(JS + Node)  and web (AngularJS).  Automated tests using Protractor/Selenium. Open Sourced all work through Apache Usergrid project.
+* Developed Apache Usergrid: Backend as a service product for enterprises and consumers.  Hacking on stack (Java/Cassandra), sdks(JS + Node)  and web (AngularJS).  Automated tests using Protractor/Selenium. Open Sourced all work through Apache Usergrid project.
+* Apache Contributor Status 
 * Stack: Java (RxJava, Akka, Hystrix, Guice, Spring), Cassandra, AngularJS, Bower, Grunt, Protractor, Selenium, Git.  
 * Site: http://apigee.com/usergrid, http://github.com/usergrid/usergrid, https://usergrid.incubator.apache.org/ 
 
 ##### Pearson // Sr. Software Engineer // 01/2012 – 11/13
-* Building Online Course Platform for High Schools and Universities serving 800k logins per day. Led a DevOps team of 4 devs/2 Qa.  Utilized Scrum and Kanban. Developed Chat Client/Server and Abstracted Socket used across Pearson OpenClass. Developed Mobile Notification/Email API for Pearson Openclass. Delivered to Cloud via EC2. Built Large Scale JavaScript Application that delivers student courses
+* Built Online Course Platform for High Schools and Universities serving 800k logins per day. Led a DevOps team of 4 devs/2 Qa.  Utilized Scrum and Kanban. Developed Chat Client/Server and Abstracted Socket used across Pearson OpenClass. Developed Mobile Notification/Email API for Pearson Openclass. Delivered to Cloud via EC2. Built Large Scale JavaScript Application that delivers student courses
 * Stack: AngularJS, SockJS, NodeJS, Redis, MongoDB, Cassandra, EC2, Dojo, Git.
 * Site: http://openclass.com 
 
@@ -46,5 +47,5 @@
 ## Education
 ##### Carnegie Mellon University // MS/BS Information Systems // 08/1997 - 08/2001
 * Graduated with Highest Distinction (MS) and High Honors (BS)
-* Both MS/BS in 4 years
+* MS/BS in 4 years
 * GPA: 3.95 (MS)/3.51 (BS) out of 4.0
