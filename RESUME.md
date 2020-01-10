@@ -6,7 +6,7 @@
 
 ## Experience
 ##### Sendgrid // Principal Engineer // 07/2016 - Current
-* AWS Rearchitecture with Lambdas, API Gateway, Kinesis, SQS, Snowflake, GoLang, DynamoDB, MySQL Aurora, Terraform
+* Led Teams on AWS Rearchitecture with Lambdas, API Gateway, Kinesis, SQS, Snowflake, GoLang, DynamoDB, MySQL Aurora, Terraform
 * Improved Contact Ingestion from <1K Sec to >5k sec by rewriting CSV parsing.  Increased max ingestion size from < 1GB to max AWS S3 PUT Size ~ 3 GB by changing from in memory ingestion to streaming reads from s3 using go lang buffered readers
 * Distributed Development with Riak, Solr, GoLang, Kafka, MySQL
 * Produce Architectural Designs and Influence Teams
