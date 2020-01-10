@@ -12,7 +12,6 @@
 * Distributed Development with Riak, Solr, GoLang, Kafka, MySQL
 * Produce Architectural Designs and Influence Teams
 * Developed Zookeeper Solr client, https://github.com/sendgrid/go-solr to reduce latency vs. using http endpoints and loadbalancer 
-* Stack: GoLang, Git, Riak, Solr Cloud, Kafka, Zookeeper  
 * Site: https://sendgrid.com/marketing/email-marketing/
 * Contributed to: https://github.com/flaxsearch/luwak, https://github.com/sendgrid/go-solr 
 
@@ -30,7 +29,6 @@
 ##### Quark // Software Architect // 05/2011-12/2011
 * Designed and Delivered Quark’s Software as a Service Play. Worked with Product and Marketing to strategize Quarks SAAS transition. Re-engineered public facing website to ASP.NET MVC 3.0. Delivered Cloud Architecture. Designed Multi Tenanted Architecture on top of Windows Azure.  
 * Stack: ASP.NET MVC 3, jQuery, SQL Server, Windows Azure.
-* Site: http://quarkbrandmanager.com/
 
 ##### Microsoft Consulting Services // Sr. Consultant // 03/2006-04/2011
 * Delivered consulting engagements utilizing SharePoint 2007/2010, jQuery 1.x, Reporting Services, SQL Server, and .NET for Microsoft. Promoted twice in 5 years. Referenced by MSDN in May 2008. Contributed with 3 developers to build workflow system to speed up paper based approvals to drill natural gas wells. Developed intranet portals utilizing MOSS (including Publishing, My Sites, Search, and divisional portals). Implemented eDiscovery Search Engine for Legal Search using SharePoint 2007. Developed a packaged business intelligence application which MWH resold to clients. Supported Sales Team on various engagements to close new business.  
