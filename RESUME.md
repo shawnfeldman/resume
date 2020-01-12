@@ -17,7 +17,7 @@
 ##### Apigee // Software Engineer // 11/2013 - 06/2016
 * Developed Apache Usergrid: Backend as a service product for enterprises and consumers.  Hacking on stack (Java/Cassandra), sdks(JS + Node)  and web (AngularJS).  Automated tests using Protractor/Selenium. Open Sourced all work through Apache Usergrid project.
 * Apache Contributor Status
-* Stack: Java (RxJava, Akka, Hystrix, Guice, Spring), Cassandra, AngularJS, Bower, Grunt, Protractor, Selenium, Git.
+* Stack: Java (RxJava, Hystrix, Guice, Spring), Cassandra, AngularJS, Bower, Grunt, Protractor, Selenium, Git.
 * Site: http://apigee.com/usergrid, http://github.com/usergrid/usergrid, https://usergrid.incubator.apache.org/
 
 ##### Pearson // Sr. Software Engineer // 01/2012 – 11/13
