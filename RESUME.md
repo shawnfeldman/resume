@@ -5,7 +5,11 @@
 * DB/Storage: Riak, Solr, Cassandra, ElasticSearch, Redis, Kafka/Kinesis, SQS, DynamoDB, MySQL
 
 ## Experience
-##### Sendgrid // Principal Engineer // 07/2016 - Current
+##### GitHub // Staff Engineer // 05/2020 - Current
+* Working on Decoupling from GitHub
+* Helping to Lead Growth and Extensibility 
+
+##### Sendgrid // Principal Engineer // 07/2016 - 05/2020
 * Responsible for Architecture/Technical Decisions for 4 Teams on AWS Rearchitecture of Marketing Campaigns Product
 * Replaced Query Engine of Running Product with over 1 billion items and > 1k writes per second
 * Improved Contact Ingestion from <1K Sec to >5k sec by rewriting CSV parsing.  Increased max ingestion size from < 1GB to max AWS S3 PUT Size ~ 3 GB by changing from in memory ingestion to streaming reads from s3 using go lang buffered readers
