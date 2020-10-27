@@ -6,8 +6,8 @@
 
 ## Experience
 ##### GitHub // Staff Engineer // 05/2020 - Current
-* Working on Decoupling from GitHub
-* Helping to Lead Growth and Extensibility 
+* Working on Auth and GitHub Apps
+* Ruby, MySQL
 
 ##### Sendgrid // Principal Engineer // 07/2016 - 05/2020
 * Responsible for Architecture/Technical Decisions for 4 Teams on AWS Rearchitecture of Marketing Campaigns Product
