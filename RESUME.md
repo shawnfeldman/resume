@@ -1,5 +1,5 @@
 ## Shawn Feldman - Principal Engineer
-###### shawn.feldman+ghres@gmail | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
+###### shawn.feldman@outlook.com | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
 * Motivated by working with high volumes of data and transactions
 * Stack: GoLang, Java, RxJava, NodeJS, AWS, Lambda, ECS, Kubernetes/Docker, Snowflake, Chef, Terraform
 * DB/Storage: Riak, Solr, Cassandra, ElasticSearch, Redis, Kafka/Kinesis, SQS, DynamoDB, MySQL
