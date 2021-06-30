@@ -6,8 +6,8 @@
 
 ## Experience
 ##### GitHub // Staff Engineer // 05/2020 - Current
-* GitHub Webhooks - Delivering ~ 100 million webhooks/day => Golang/Ruby/MySQL/Kafka/Kube
-* Worked on API Auth- OAuth amd JWT Signing => Ruby/Rails, MySQL
+* Webhooks: Delivering ~ 100 million webhooks/day => Golang/Ruby/MySQL/Kafka/Kube
+* API Authentication and Authorization: OAuth amd JWT Signing => Ruby/Rails, MySQL
 
 ##### Sendgrid // Principal Engineer // 07/2016 - 05/2020
 * Responsible for Architecture/Technical Decisions for 4 Teams on AWS Rearchitecture of Marketing Campaigns Product
@@ -34,7 +34,7 @@
 * Stack: ASP.NET MVC 3, jQuery, SQL Server, Windows Azure.
 
 ##### Microsoft Consulting Services // Sr. Consultant // 03/2006-04/2011
-* Delivered consulting engagements utilizing SharePoint 2007/2010, jQuery 1.x, Reporting Services, SQL Server, and .NET for Microsoft. Promoted twice in 5 years. Referenced by MSDN in May 2008. Contributed with 3 developers to build workflow system to speed up paper based approvals to drill natural gas wells. Developed intranet portals utilizing MOSS (including Publishing, My Sites, Search, and divisional portals). Implemented eDiscovery Search Engine for Legal Search using SharePoint 2007. Developed a packaged business intelligence application which MWH resold to clients. Supported Sales Team on various engagements to close new business.
+* Delivered consulting engagements utilizing SharePoint 2007/2010, jQuery 1.x, Reporting Services, SQL Server, and .NET for Microsoft. Promoted twice in 5 years. Referenced by MSDN in May 2008.  
 * Clients: Questar (2 years), MediaNews Group (Case Study), Xcel , MWH, Intermountain Health Care, Coors, Gates, Plum Creek Timber, Navigant, Zions Bank, Nike, Honeywell
 
 ##### Visa // Systems Architect // 07/2004-03/2006
@@ -48,5 +48,4 @@
 ## Education
 ##### Carnegie Mellon University // MS/BS Information Systems // 08/1997 - 08/2001
 * Graduated with Highest Distinction (MS) and High Honors (BS)
-* MS/BS in 4 years
-* GPA: 3.95 (MS)/3.51 (BS) out of 4.0
+* MS/BS in 4 years, GPA: 3.95 (MS)/3.51 (BS) out of 4.0
