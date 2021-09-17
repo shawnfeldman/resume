@@ -10,7 +10,7 @@
 * API Authentication and Authorization: OAuth amd JWT Signing => Ruby/Rails, MySQL
 
 ##### Sendgrid // Principal Engineer // 07/2016 - 05/2020
-* Responsible for Architecture/Technical Decisions for 4 Teams on AWS Rearchitecture of Marketing Campaigns Product
+* Guided Architecture on AWS Rearchitecture of Marketing Campaigns Product
 * Replaced Query Engine of Running Product with over 1 billion items and > 1k writes per second
 * Improved Contact Ingestion from <1K Sec to >5k sec by rewriting CSV parsing.  Increased max ingestion size from < 1GB to max AWS S3 PUT Size ~ 3 GB by changing from in memory ingestion to streaming reads from s3 using go lang buffered readers
 * Developed Zookeeper Solr client, https://github.com/sendgrid/go-solr to reduce latency vs. using http endpoints and loadbalancer
