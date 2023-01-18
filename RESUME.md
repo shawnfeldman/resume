@@ -7,6 +7,7 @@
 ## Experience
 ##### GitHub // Staff Engineer // 05/2020 - Current
 * Copilot: http2 api layer interfacing with codex models.  processing high volumes of telemetry data to feed back to language models. 
+* Feeds: aggregating github data to build new social home feed 
 * Webhooks: Delivering ~ 100 million webhooks/day => Golang/Ruby/MySQL/Kafka/Kube
 * API Authentication and Authorization: OAuth amd JWT Signing => Ruby/Rails, MySQL
 
