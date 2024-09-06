@@ -1,6 +1,6 @@
 ## Shawn Feldman - Principal Engineer
 
-###### shawn.feldman@outlook.com | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
+###### shawn.feldman@gmail.com | https://www.linkedin.com/in/shawnfeldman | www.github.com/shawnfeldman
 
 - Motivated by working with high volumes of data and transactions
 - Stack: GoLang, Java, RxJava, NodeJS, AWS, Lambda, ECS, Kubernetes/Docker, Snowflake, Chef, Terraform
@@ -10,39 +10,39 @@
 
 ##### GitHub // Staff Engineer // 05/2020 - Current
 
-- Copilot Snippy: working on copyright protection for model responses across chat and code representations, DB size is 1 petabyte.
-- Copilot: http2 api layer interfacing with codex models. processing high volumes of telemetry data to feed back to language models.
-- Feeds: aggregating github data to build new social home feed
+- Copilot Snippy: working on copyright protection for model responses across chat and code representations, Inhouse DB utilizing Azure Page Blobs for performance. over 100TB of data. => Golang/Azure Blob Storage
+- Copilot: http2 api layer interfacing with Open AI models. processing high volumes of telemetry data to feed back to language models. => Golang/Kube/Kusto
+- Feeds: aggregating github data to build new social home feed => Ruby/Golang/MySQL/Kafka/Kube
 - Webhooks: Delivering ~ 100 million webhooks/day => Golang/Ruby/MySQL/Kafka/Kube
 - API Authentication and Authorization: OAuth amd JWT Signing => Ruby/Rails, MySQL
 
 ##### Sendgrid // Principal Engineer // 07/2016 - 05/2020
 
-- Guided Architecture on AWS Rearchitecture of Marketing Campaigns Product
-- Replaced Query Engine of Running Product with over 1 billion items and > 1k writes per second
+- Guided Architecture to AWS for SendGrid Marketing Campaigns.
+- Replaced Database of Running Product with over 1 billion items and > 1k writes per second
 - Improved Contact Ingestion from <1K Sec to >5k sec by rewriting CSV parsing. Increased max ingestion size from < 1GB to max AWS S3 PUT Size ~ 3 GB by changing from in memory ingestion to streaming reads from s3 using go lang buffered readers
 - Developed Zookeeper Solr client, https://github.com/sendgrid/go-solr to reduce latency vs. using http endpoints and loadbalancer
-- Stack: On Prem - Riak, Solr, GoLang, Kafka, MySQL, Chef Rewrite - Lambdas, API Gateway, Kinesis, SQS, Snowflake, GoLang, DynamoDB, MySQL Aurora, Terraform
+- Stack: On Prem - Riak, Solr, GoLang, Kafka, MySQL, Chef Rewrite - Lambdas, API Gateway, Kinesis, SQS, Snowflake, Golang, DynamoDB, MySQL Aurora, Terraform
 - Site: https://sendgrid.com/marketing/email-marketing/
 - Contributed to: https://github.com/flaxsearch/luwak, https://github.com/sendgrid/go-solr
 
 ##### Apigee // Software Engineer // 11/2013 - 06/2016
 
 - Developed Apache Usergrid: Backend as a service product for enterprises and consumers. Hacking on stack (Java/Cassandra), sdks(JS + Node) and web (AngularJS). Automated tests using Protractor/Selenium. Open Sourced all work through Apache Usergrid project.
-- Apache Contributor Status
-- Stack: Java (RxJava, Hystrix, Guice, Spring), Cassandra, AngularJS, Bower, Grunt, Protractor, Selenium, Git.
+- Became an Apache Contributor
+- Stack: Java (RxJava, Hystrix, Guice, Spring), Cassandra.
 - Site: http://apigee.com/usergrid, http://github.com/usergrid/usergrid, https://usergrid.incubator.apache.org/
 
 ##### Pearson // Sr. Software Engineer // 01/2012 – 11/13
 
 - Built Online Course Platform for High Schools and Universities serving 800k logins per day. Led a team of 4 devs/2 Qa. Utilized Scrum and Kanban. Developed Chat Client/Server and Abstracted Socket used in Pearson OpenClass. Developed Mobile Notification/Email API for Pearson Openclass. Delivered to Cloud via EC2. Built Large Scale JavaScript Application that delivers student courses
-- Stack: AngularJS, SockJS, NodeJS, Redis, MongoDB, EC2, Dojo, .NET Services, SQL Server.
+- Stack: NodeJS, Redis, MongoDB, EC2, Dojo, .NET Services, SQL Server.
 - Site: http://openclass.com
 
 ##### Quark // Software Architect // 05/2011-12/2011
 
 - Designed and Delivered Quark’s Software as a Service Play. Worked with Product and Marketing to strategize Quarks SAAS transition. Re-engineered public facing website to ASP.NET MVC 3.0. Delivered Cloud Architecture. Designed Multi Tenanted Architecture on top of Windows Azure.
-- Stack: ASP.NET MVC 3, jQuery, SQL Server, Windows Azure.
+- Stack: ASP.NET MVC, jQuery, SQL Server, Azure.
 
 ##### Microsoft Consulting Services // Sr. Consultant // 03/2006-04/2011
 
